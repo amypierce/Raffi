@@ -6,7 +6,11 @@
 
 ## Description
 
-The web page is a blod about a dog named Raffi
+The web page is a blog about a dog named Raffi
+
+## Setup
+
+Clone the code to your computer and open the index.html file, or visit the link directly: [https://amypierce.github.io/raffi/]
 
 ## Known Bugs
 
@@ -19,6 +23,7 @@ If you run into any issues or have questions, ideas or concerns, please contact 
 ## Technologies Used
 
 * HTML
+* CSS
 
 ### License
 

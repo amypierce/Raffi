@@ -6,7 +6,6 @@ h1 {
 }
 
 h2 {
-    color: blue;
     font-family: sans-serif;
 }
 
@@ -36,3 +35,26 @@ p.author {
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+img {
+    margin: 4px;
+    width: 150px;
+}
+
+.sidebar {
+    width: 20%;
+    float: right;
+    background-color: pink;
+    padding: 4px;
+    margin: 2px;
+}
+
+.column {
+    width: 400px;
+    float: left;
+}
+
+.jumbotron {
+    background-color: rosybrown;
+}
+
